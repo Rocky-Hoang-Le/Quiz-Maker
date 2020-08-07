@@ -6,7 +6,7 @@ in order for it to work.
 
 The questions file must have the questions in its entirety on odd numbered lines, and an answer set on even numbered lines.
 
-The answer set must be formatted like so: A)ans B)fake_ans C)fake_ans D)fake_ans where a is the correct answer.
+The answer set must be formatted like so: A)ans B)fake_ans C)fake_ans D)fake_ans where A) is the correct answer.
 
 You must make sure there is no new line after the last question and answer set as the file must contain an even number of lines.
 
