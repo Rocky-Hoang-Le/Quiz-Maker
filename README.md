@@ -10,6 +10,8 @@ The answer set must be formatted like so: A)ans B)fake_ans C)fake_ans D)fake_ans
 
 You must make sure there is no new line after the last question and answer set as the file must contain an even number of lines.
 
+The questions file must contain atleast 5 questions.
+
 math_questions.txt has already been made as an example.
 
 After you have the correct formatted questions file you can start the application and browse for the file, which will then generate the quiz.
